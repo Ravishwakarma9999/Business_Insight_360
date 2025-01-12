@@ -36,7 +36,7 @@ AtliQ's struggles in *Latin America* inspired the need for a data-driven approac
 This project empowered AtliQ Hardwares with better decision-making tools and enriched my Power BI expertise.  
 
 ✨ **View My Work**  
-🔗 Live Video Presentation: [https://www.youtube.com/watch?v=QPP77DdkMgM&ab_channel=RaviVishwakarma]
+🔗 Live Video Presentation: [https://youtu.be/QPP77DdkMgM?feature=shared]
 
 🔗 Live Dashboard: [https://app.powerbi.com/groups/c2d702fc-c923-41cc-a732-75f563e5b0b0/reports/ba860df1-66da-49b4-ba61-277b53141e69/3c0378c6d8d8aa9aea39?experience=power-bi]  
 

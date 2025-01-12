@@ -38,7 +38,7 @@ This project empowered AtliQ Hardwares with better decision-making tools and enr
 ✨ **View My Work**  
 🔗 Live Video Presentation: [https://youtu.be/QPP77DdkMgM?feature=shared]
 
-🔗 Live Dashboard: [https://app.powerbi.com/groups/c2d702fc-c923-41cc-a732-75f563e5b0b0/reports/ba860df1-66da-49b4-ba61-277b53141e69/3c0378c6d8d8aa9aea39?experience=power-bi]  
+🔗 Live Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiNDdkY2I3YzItYzk4MC00MWJlLWIyNWYtNjg0ZTBmYzdkYmNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]  
 
 
 I would love to hear your thoughts or feedback! 😊  
